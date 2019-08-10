@@ -1,0 +1,43 @@
+.fondo{
+    background: url(../img/turismo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+    }
+    .logo{
+        width: 90%;
+         height: 50%;
+        border-radius: 2vh; 
+        margin-left: 2%;
+    
+             
+    }
+    .titulo{
+        color: white;
+        font-size:5vh ;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .r-sociales{
+        width: 10vh;
+        height: 10vh;
+        border-radius: 3vh;
+    }
+    .borde{
+        margin-top: 5vh;
+    }
+    .img{
+        margin-top: 3vh;
+        width: 100%;
+    }
+    .img-blog{
+        width: 25vh;
+        height: 25vh;
+        margin-top: 6vh;
+        margin-right: 2vh;
+
+    }
+    .formulario{
+        margin-top: 5vh;
+        height: 45vh;
+    }
